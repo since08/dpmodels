@@ -1,0 +1,2 @@
+class TopicViewRule < ApplicationRecord
+end

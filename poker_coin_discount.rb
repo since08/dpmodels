@@ -1,0 +1,2 @@
+class PokerCoinDiscount < ApplicationRecord
+end

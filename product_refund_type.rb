@@ -1,0 +1,2 @@
+class ProductRefundType < ApplicationRecord
+end

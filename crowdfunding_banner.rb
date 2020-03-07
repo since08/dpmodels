@@ -1,0 +1,2 @@
+class CrowdfundingBanner < ApplicationRecord
+end
